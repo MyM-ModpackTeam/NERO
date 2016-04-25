@@ -1,0 +1,16 @@
+language: java
+skip_cleanup: true
+install:
+- true
+script:
+- gradle buildAll
+deploy:
+  provider: releases
+  api_key:
+    secure: Td7O5/z0JtHGTE62RO14V26D5W8RPFCy4Sg0AweVAPZkxjPWH9FS/tMghWrNGZ/YYWY0PNDhPft/49d3MzsCMRO6u8Y5o7PvFyv46ZoqHg8TKoXDlw0yGIgl1SxfDR8oBKIfFWqg/fianjNoDFUs98hNzuwGFyEkc3SHIms/lfI9KEcxahkjvhD/BgKFkFSb+x1Ohw2FgrkzDYDKJbJeDqR127eW58RKdZRMYD4b+gBTo9oWRKu/Zl9otTItZ2/WdrB26xARIzrL8NOVIkpcP6LLY/ARecLOFcuECzfebU4geXrhJQtmyQQYE26zaLBt1DIN/XmbvxeSpb2dGWQX66bPnIVaRGVPWrv8sVyGPNQoUQ6b6qEzXefY2GErEu6NyXSKhSj2M2O6igYcDCGEj2bML+OwMehjAI2OO2G7P1YOGGHHBrL5AgPbXExGnwKuyTNQV+RZUKLJgq4wvg/6uEbvjELj469uic1gF1dLPb6mEkmto3SkrO/WwrFLKtsPw1NoBKzjxZ55BKYEI/mKxg+M1h3L9uGksPxjgIjXHwrHdMuhPRn6Vn7Awx7OvqXVVZvQcyIZs86Ro3WlaGub17ag4P+0DeOREISeTzDF/E7OWkcuNFAE9GvzadffRSJsGZRFerVcscAQc2U8YLRrGDbHp6n++8Zh3XcgvVfu+Gk=
+  file_glob: true
+  file:
+  - build/NERO_*_Client.zip
+  - build/NERO_*_Server.zip
+  on:
+    tags: true
