@@ -21,3 +21,4 @@ Credits
 - `NotEnoughItems <http://minecraft.curseforge.com/projects/notenoughitems?gameCategorySlug=mc-mods&projectID=222211>`_ - chicken_bones
 - `Railcraft <http://minecraft.curseforge.com/projects/railcraft?gameCategorySlug=mc-mods&projectID=51195>`_ - CovertJaguar
 - `ShadersMod <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix>`_ - karyonix
+- `Chocapic13s Shaders <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293898-chocapic13s-shaders>`_, chocapic13
