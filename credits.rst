@@ -19,7 +19,6 @@ Credits
 - `Hardcore Ender Expansion <http://minecraft.curseforge.com/projects/hardcore-ender-expansion>`_ - chylex
 - `ItemPhysic <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076336-itemphysic-1-3-updated-1-9-1-8-9-more-realtistic>`_ - CreativeMD
 - `NotEnoughItems <http://minecraft.curseforge.com/projects/notenoughitems?gameCategorySlug=mc-mods&projectID=222211>`_ - chicken_bones
-- `Railcraft <http://minecraft.curseforge.com/projects/railcraft?gameCategorySlug=mc-mods&projectID=51195>`_ - CovertJaguar
 - `ShadersMod <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286604-shaders-mod-updated-by-karyonix>`_ - karyonix
 - `Chocapic13s Shaders <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293898-chocapic13s-shaders>`_, chocapic13
 - `Roguelike Dungeons <http://minecraft.curseforge.com/projects/roguelike-dungeons>`_, Greymerk
