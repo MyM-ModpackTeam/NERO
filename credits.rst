@@ -23,3 +23,4 @@ Credits
 - `Chocapic13s Shaders <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293898-chocapic13s-shaders>`_ - chocapic13
 - `Roguelike Dungeons <http://minecraft.curseforge.com/projects/roguelike-dungeons>`_ - Greymerk
 - `LaunchGUI <http://minecraft.curseforge.com/projects/launchgui>`_ - TehNut
+- `Chisel <http://minecraft.curseforge.com/projects/chisel>`_ - tterrag1098
