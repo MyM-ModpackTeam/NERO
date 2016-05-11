@@ -1,0 +1,8 @@
+fov:0.5
+renderDistance:8
+guiScale:2
+particles:2
+fancyGraphics:false
+ao:1
+showInventoryAchievementHint:false
+resourcePacks:["HEE Music v1.0.zip"]
