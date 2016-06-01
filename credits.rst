@@ -25,3 +25,4 @@ Credits
 - `LaunchGUI <http://minecraft.curseforge.com/projects/launchgui>`_ - TehNut
 - `Chisel <http://minecraft.curseforge.com/projects/chisel>`_ - tterrag1098
 - `Default Options <http://minecraft.curseforge.com/projects/default-options?gameCategorySlug=mc-mods&projectID=232131>`_ - BlayTheNinth
+- `Antique Atlas Overlay <http://minecraft.curseforge.com/projects/antique-atlas-overlay-minimap>`_ - Kenkron
